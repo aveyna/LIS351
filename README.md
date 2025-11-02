@@ -31,3 +31,24 @@ Favorite Movie of Aveyna's:
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+Favorite Cuisine of Aveyna's:
+</head>
+<body>
+
+<h1>What are my favorite foods?</h1>
+<p>I love Sushi, Chicken Saltada & Butter Chicken.</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<p style="color:blue;font-size:50px;">Aveyna's Favorite Cuisine</p>
+
+</body>
+</html>
