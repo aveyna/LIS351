@@ -10,7 +10,7 @@ Welcome to Aveyna's Website
 
 <main>
         <p>
-            <img src=["images/image1.jpg](https://github.com/aveyna/LIS351/blob/3a9c1ec5bd61890aae5b0fb8d926184149bb5a50/image1.jpg)" alt="Photo of Aveyna" style="width: 500px;">
+            <img src="image1.jpg" alt="Photo of Aveyna" style="width: 500px;">
         </p>
 
 </body>
