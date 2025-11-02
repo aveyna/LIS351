@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 Welcome to Aveyna's Website
@@ -19,7 +19,7 @@ Welcome to Aveyna's Website
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 
@@ -32,7 +32,7 @@ Welcome to Aveyna's Website
 </body>
 </html>
 
-<!DOCTYPE html>
+
 <html>
 <head>
 
