@@ -22,11 +22,11 @@ Welcome to Aveyna's Website
 <!DOCTYPE html>
 <html>
 <head>
-Favorite Movie of Aveyna's:
+
 </head>
 <body>
 
-<h1>What are my favorite movies?</h1>
+<h1>Favorite Movie of Aveyna's</h1>
 <p>I love Good Will Hunting, Shawshank Redemption, The Pursuit of Happyness & The Lake House.</p>
 
 </body>
@@ -35,11 +35,11 @@ Favorite Movie of Aveyna's:
 <!DOCTYPE html>
 <html>
 <head>
-Favorite Cuisine of Aveyna's:
+
 </head>
 <body>
 
-<h1>What are my favorite foods?</h1>
+<h1>Favorite Cuisine of Aveyna's:</h1>
 <p>I love Sushi, Chicken Saltada & Butter Chicken.</p>
 
 
