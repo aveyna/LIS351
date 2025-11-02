@@ -8,7 +8,7 @@ Welcome to Aveyna's Website
 <h1>About Aveyna</h1>
 <p>Hi! I'm currently a junior at UW-Madison studying Data + Information Science who's interested in pursuing a career in data analytics or technology consulting</p>
 
-<img src="file:///Users/aveynamao/Downloads/LIS%20351/LIS351.html" alt="Photo of Aveyna">
+<img src="LIS351.html" alt="Photo of Aveyna">
 
 </body>
 </html>
