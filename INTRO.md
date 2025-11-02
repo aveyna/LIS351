@@ -10,7 +10,7 @@ Welcome to Aveyna's Website
 
 <main>
         <p>
-            <img src="images/image1.jpg" alt="A person holding a large, colorful bouquet of flowers at an outdoor market." style="width: 500px;">
+            <img src="images/image1.jpg" alt="Photo of Aveyna" style="width: 500px;">
         </p>
 
 </body>
