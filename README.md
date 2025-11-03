@@ -13,8 +13,7 @@ Welcome to Aveyna's Website
             <img src="image1.jpg" alt="Photo of Aveyna" style="width: 500px;">
         </p>
 
-</body>
-</html>
+
 
 
 
