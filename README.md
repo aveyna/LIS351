@@ -39,7 +39,14 @@ Welcome to Aveyna's Website
 </head>
 <body>
 
+<h1>Favorite Book of Aveyna:</h1>
+<p>I really like Big Magic by Elizabeth Gilbert.</p>
+
+<html>
+<head>
+
+</head>
+<body>
+
 <h1>Favorite Cuisine of Aveyna's:</h1>
 <p>I love Sushi, Chicken Saltada & Butter Chicken.</p>
-
-
