@@ -6,7 +6,7 @@ Welcome to Aveyna's Website
 <body>
 
 <h1>About Aveyna</h1>
-<p>Hi! I'm currently a junior at UW-Madison studying Data + Information Science who's interested in pursuing a career in data analytics or technology consulting</p>
+<p>Hi! I'm a rising senior at UW-Madison studying Information Science who's interested in pursuing a career in technology consulting within the healthcare and financial services industry. Originally, I'm from Minneapolis and in my spare time, I love playing tennis and ice skating. </p>
 
 <main>
         <p>
@@ -48,4 +48,4 @@ Welcome to Aveyna's Website
 <body>
 
 <h1>Favorite Cuisine of Aveyna's:</h1>
-<p>I love Sushi, Chicken Saltada & Butter Chicken.</p>
+<p>I love Sushi, Chicken Saltada & Hot Pot.</p>
