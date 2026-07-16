@@ -1,0 +1,137 @@
+/* ============================================
+   style.css — shared stylesheet for entire site
+   Linked from every HTML page in the site.
+   ============================================ */
+
+/* ---- Base page styling ---- */
+body {
+  font-family: Arial, Helvetica, sans-serif; /* default sans-serif for body text */
+  background-color: #fdfaf5;                 /* page background color (requirement) */
+  margin: 0;
+  padding: 0;
+  color: #2b2b2b;
+  line-height: 1.6;
+}
+
+/* Add space/padding around the main page content (requirement) */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px 40px; /* space around content */
+}
+
+/* ---- Headings use a serif font, with "serif" fallback (requirement) ---- */
+h1, h2 {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+h1 {
+  font-size: 2.2em;
+  border-bottom: 3px solid #8a5a44;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.4em;
+  color: #8a5a44;
+}
+
+/* ---- Navigation bar ---- */
+nav {
+  background-color: #3a2e2a;
+  padding: 15px 40px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+nav a {
+  color: #fdfaf5;
+  text-decoration: none;
+  font-weight: bold; /* styling change #1 */
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: #e8b98a;
+}
+
+/* ---- Styling changes (requirement: at least 4 elements) ---- */
+
+/* #1 nav a { font-weight: bold; } is above */
+
+/* #2 emphasis / bold text within paragraphs */
+strong {
+  color: #8a5a44;
+}
+
+/* #3 italic text size adjustment */
+em {
+  font-style: italic;
+  font-size: 1.05em;
+}
+
+/* #4 description list terms */
+dt {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-top: 10px;
+}
+
+dd {
+  margin-left: 20px;
+  margin-bottom: 8px;
+}
+
+/* ---- Images ---- */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 10px 0;
+}
+
+/* ---- Lists ---- */
+ul.content-list, ol.content-list {
+  margin: 15px 0;
+  padding-left: 30px;
+}
+
+/* ---- Footer ---- */
+footer {
+  text-align: center;
+  font-size: 0.85em;
+  color: #777;
+  padding: 20px;
+}
+
+/* ============================================
+   Unique layout for one page (requirement).
+   Applied via <main class="two-column"> on
+   food.html only — a two-column layout that's
+   different from the single-column pages.
+   ============================================ */
+main.two-column {
+  max-width: 900px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  align-items: start;
+}
+
+main.two-column h1,
+main.two-column > p:first-of-type {
+  grid-column: 1 / -1; /* title and intro span both columns */
+}
+
+@media (max-width: 700px) {
+  main.two-column {
+    display: block; /* stack on small screens */
+  }
+}
